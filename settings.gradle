@@ -1,0 +1,2 @@
+rootProject.name = "Demo Custom Contact List2"
+include ':app'
